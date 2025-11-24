@@ -1,3 +1,5 @@
+## Attention! This repo was migrated to a new one: https://github.com/SlapStudios/ALS-Refactored-Manny
+
 <img src="Resources/Icon128.png" align="right" width="110">
 
 # Advanced Locomotion System Refactored
